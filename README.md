@@ -11,14 +11,20 @@
 - **Работа с сетью:** URLSession, REST API
 - **Работа с памятью:** CoreData, UserDefaults, @Appstorage
 - **Система контроля версий:** Git
-- **Менеджеры завивисимостей:** SPM, Cocoapods
+- **Менеджеры зависимостей:** SPM, Cocoapods
+- **Написание unit-тестов**
 
 ## 🚀 Мои проекты
 
 ### [CoinTrackerApp](https://github.com/tam-swift/CoinTrackerApp)
 📱 *Приложение для отслеживания курсов криптовалют в реальном времени.*
 
-- Использованные технологии: SwiftUI, Combine, MVVM, URLSession, CoreData
+- SwiftUI, Combine, MVVM, URLSession, Core Data, GCD
+
+### [TodoTestEM](https://github.com/tam-swift/TodoTestEM)
+📱 *Приложение для ведения списка дел.*
+
+- Unit tests, SwiftUI, Combine, MVVM, URLSession, Core Data, UserDefaults, GCD
 
 ### [CardBlock](https://github.com/tam-swift/CardBlock)
 📱 *UI-Клон приложения Т-банка*
